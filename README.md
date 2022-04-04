@@ -1,4 +1,4 @@
-The original Dataset wad published by Frankcc in the following link: https://www.kaggle.com/datasets/francispython/b-depression
+The original Dataset was published by Frankcc in the following link: https://www.kaggle.com/datasets/francispython/b-depression
 
 The dataset is involved into the analysis of depression. The data was consists as a study about the life conditions of people who live in rurales zones. Because all the columns were not explicated in this challenge so We can´t understand them. We proceded to delete them or ignoring. Fhe final features or columns were the following:
 
